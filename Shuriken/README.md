@@ -3,15 +3,15 @@ Acrylic Thickeness
 
     Top:3mm
 
- Switch:4.5mm
+    Switch:4.5mm
 
-Middle1:3mm
+    Middle1:3mm
 
-Middle2:4.5mm
+    Middle2:4.5mm
 
- Bottom:3mm
+    Bottom:3mm
 
-Total Thickness:18mm
+    Total Thickness:18mm
 
 
 
