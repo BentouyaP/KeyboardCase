@@ -15,6 +15,8 @@ Acrylic Thickeness
 
 
 
-    Diameter:M3
+    Diameter/Screw Size:ALL M3 x 20～26mm
 
     Total Holes:9
+
+I used Materials [Screw](https://www.amazon.co.jp/gp/product/B012TAHW9U/) / [Nuts](https://www.amazon.co.jp/gp/product/B00YM3T3C2/) 
