@@ -1,20 +1,20 @@
 # Kodachi40 Acrylic Case
 Acrylic Thickeness
 
-   Top:3mm
+    Top:3mm
 
-Switch:3mm
+    Switch:3mm
 
-Middle:3mm * 3
+    Middle:3mm * 3
 
-Bottom:3mm
+    Bottom:3mm
 
-Total Thickness:18mm
+    Total Thickness:18mm
 
-Optional Bottom Leg:3mm * 2
+    Optional Bottom Leg:3mm * 2
 
 
 
-Diameter:M3
+    Diameter:M3
 
-Total Holes:9
+    Total Holes:9
