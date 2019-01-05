@@ -3,6 +3,8 @@ Type-B Case
 
 ![Kabuto28_Type-B](https://i.imgur.com/5mKQZfS.jpg)
 
+# Layer Thickness
+    
     Switch:3mm
 
     Middle:3mm @ 2
@@ -10,7 +12,10 @@ Type-B Case
     Bottom:3mm
 
     Leg:3mm
+    
 
+# Materials
+    
     Spacer:M2 x 5mm x 3phi
 
     Nuts:M2 x 2mm
