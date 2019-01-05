@@ -3,11 +3,15 @@ Type-A Case
 
 ![Kabuto28_Type-A](https://i.imgur.com/bnnz36D.jpg)
 
+# Layer Thickness
+
     Switch:3mm
 
     Bottom:3mm
 
     Leg:3mm
+
+# Materials
 
     Spacer:M2 x 6-8mm
 
