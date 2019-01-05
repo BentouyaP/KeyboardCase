@@ -9,10 +9,14 @@ Type-A Case
 
     Leg:3mm
 
+
+Materials
+
+
     Spacer:M2 x 6～8mm
-    [ヒロスギネット](https://www.hirosugi-net.co.jp/shop/c/c10101012/)
+    [Spacer](https://www.hirosugi-net.co.jp/shop/c/c10101012/)
 
     Diameter/Screw Size:M2 x 5mm @ 9
     Diameter/Screw Size:M2 x 8mm @ 3
-    [ヒロスギネット](https://www.hirosugi-net.co.jp/shop/c/c20101010/)
+    [Screw](https://www.hirosugi-net.co.jp/shop/c/c20101010/)
 
