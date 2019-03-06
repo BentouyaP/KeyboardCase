@@ -1,11 +1,12 @@
-# Kabuto28 Acrylic Case
 
 
-���̃t�@�C����Ponoko�փA�b�v���[�h����Ή��H�ł��܂��B
+このファイルをPonokoへアップロードすれば加工できます。
 
 
-Kabuto28_Type-A_ponoko_Acrylic_P2_3mm.svg
+# Kabuto28_Type-A_ponoko_Acrylic_P2_3mm.svg
 
-   Kabuto28_Type-A�̃P�[�X�S��(�{��)�̐}�ʂł��B
+![Kabuto28_Type-A](https://i.imgur.com/xDKYbeG.jpg)
 
-   3mm���A�N������P2�T�C�Y(384mm x 384mm)���w�肵�Ă��������B
+    Kabuto28_Type-Aのケース４個分(＋α)の図面です。
+
+    3mm厚アクリルのP2サイズ(384mm x 384mm)を指定してください。
